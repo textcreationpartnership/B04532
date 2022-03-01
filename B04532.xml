@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Suppose for the year 1695. Wanting five or six millions.</title>
+            <author>Neale, Thomas, d. 1699?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04532</idno>
+            <idno type="STC">Wing N352B</idno>
+            <idno type="STC">ESTC R180851</idno>
+            <idno type="EEBO-CITATION">52614801</idno>
+            <idno type="OCLC">ocm 52614801</idno>
+            <idno type="VID">175986</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04532)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175986)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2757:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Suppose for the year 1695. Wanting five or six millions.</title>
+                  <author>Neale, Thomas, d. 1699?</author>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Signed at end: Tho. Neale.</note>
+                  <note>Reproduction of original in: Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Revenue --  Great Britain --  Early works to 1800.</term>
+               <term>Tobacco --  Taxation --  Great Britain --  Early works to 1800.</term>
+               <term>Tax revenue estimating --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="preface">
+            <pb facs="tcp:175986:1" rendition="simple:additions"/>
+            <pb facs="tcp:175986:2" rendition="simple:additions"/>
+            <pb facs="tcp:175986:3" rendition="simple:additions"/>
+            <pb facs="tcp:175986:4"/>
+            <head>Suppoſe for the Year 1695.</head>
+            <head type="sub">Wanting Five or Six <hi>MILLIONS</hi>
+            </head>
+            <p n="1">1. T'IS probable, That Four Shillings in the Pound will again be Gran<g ref="char:EOLhyphen"/>ted for the next Year from <hi>Chriſtmas</hi> 1694/5. upon Land; and thereof to be Appropriated, One Million for Sea, and One Million for Land Service; being reckoned on as—Two Millions.</p>
+            <p>Though poſſibly not more than 1800000 <hi>l.</hi> and if the Revenue of the Cuſtoms (at <hi>Chriſtmas</hi> Expiring) may be made uſe of towards Raiſing this Money, and the Methods hereafter mentioned be uſed for the reſt, inſtead of Four Shillings in the Pound on Land, Two Shillings it may be may ſerve.</p>
+            <p n="2">2. A Lottery may be Contrived, and upon only 140000 <hi>l.</hi> yearly for Sixteen Years as the laſt was, that the Money in Specie ſhall very quick<g ref="char:EOLhyphen"/>ly come in; for which <hi>T. N.</hi> has a Propoſal ready Printed, and (as he con<g ref="char:EOLhyphen"/>ceives) choice of Eaſie Fonds for't; and if need be, ſuppoſes as he has con<g ref="char:EOLhyphen"/>trived it, with Increaſing the Fond half as much more, that it will bring in half as much Money more; but as yet on ſuch 140000 <hi>l.</hi> yearly for Sixteen Years he propoſes only—One Million.</p>
+            <p n="3">3. <hi>T. N.</hi> has alſo thought of a way how to ſupply the Kings preſent Occaſions (this next Year) with more than Two Millions of Money on a Fund of 8000 <hi>l.</hi> yearly only,<note place="margin">
+                  <hi>2</hi> Millions.</note> which is but at Four <hi>per Cent.</hi> without any Compulſion or Prejudice to the preſent Revenue,<note place="margin">
+                  <hi>5</hi> Millions In all.</note> or to thoſe that ſhall Re<g ref="char:EOLhyphen"/>ceive it, but rather a Convenience to both; and an Eaſie Fond may be Propoſed for it.</p>
+            <closer>
+               <date>
+                  <hi>Nov.</hi> 16. 1694.</date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175986:5"/>
+            <p>A Million Lottery was Propoſed in Print by <hi>T. N. Nov.</hi> 15. 1694. And now for Raiſing a Fond of 140000 <hi>l.</hi> Yearly for this Million Lottery, a Three Months Tax of 70000 <hi>l.</hi> a Month, and the Duty continued on Salt, will do it. And</p>
+            <p>'Tis to be conſidered, that the firſt Payment to ſuch as ſhall advance this Mo<g ref="char:EOLhyphen"/>ney (beſides what Rebate ſhall be allowed them for paying it in ſooner, which comes out of the Money paid) will be probably at <hi>Lady-day</hi> 1696. And
+<table>
+                  <row>
+                     <cell>the firſt Payment to the Fortunate will be then but</cell>
+                     <cell>20000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>And at <hi>Michaelmas</hi> Second Payment</cell>
+                     <cell>120000</cell>
+                  </row>
+                  <row role="total">
+                     <cell>In all</cell>
+                     <cell>140000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Now to make the Raiſing this Eaſie,</p>
+            <p>Let a Months Aſſeſſment of 70000 <hi>l. per Menſem</hi> be made Payable for the Month of <hi>February</hi> 1695/6, which will come after the Years Tax, if any of 4 or 2 <hi>s.</hi> in the Pound, which if ſo, will end at <hi>Chriſtmas</hi> 1695. and out of it may be made the firſt Payment at <hi>Lady-Day,</hi> 1696. being 20000 <hi>l.</hi> only to the Fortunate, and leave 50000 <hi>l.</hi> towards the next Payment. And then ſuppoſe there be charged by way of the like Aſſeſſment on the Month of <hi>Auguſt,</hi> 1696. 70000 <hi>l.</hi> more, 'twill come in time enough with the 50000 <hi>l.</hi> aforeſaid to make 120000 <hi>l.</hi> which will be to be paid to the Benefitted and not Benefitted Tickets for the <hi>Michaelmas</hi> Payment 1696. And then let the Month of <hi>February,</hi> 1696/7. be charged with 70000 <hi>l.</hi> more; out of which there may be paid 20000 <hi>l.</hi> to the Fortunate at <hi>La<g ref="char:EOLhyphen"/>dy-Day</hi> 1697. and leave 50000 <hi>l.</hi> (towards the next Payment at <hi>Michaelmas</hi> 1697.) which with what may be raiſed from the Salt (now propoſed to be continued) 'twixt the <hi>17th.</hi> of <hi>May</hi> 1697. when the preſent Charge on it ends, and <hi>Michaelmas</hi> following, will be ſufficient to make the <hi>Michaelmas</hi> Payment 1697. And the Duty of Salt will by that time be ſo well ſetled, that it cannot be doubted but that 'twill after abundantly pay the 140000 <hi>l.</hi> Yearly for whatever time 'tis given.</p>
+            <p>And thus for only one three Months Aſſeſſment at 70000 <hi>l. per</hi> Month, being proportionable only to a ſix Weeks Tax at 4 <hi>s.</hi> in the Pound to be paid in two Years, and none of it payable till after the 4 or 2 <hi>s.</hi> in the Pound ſuppoſed to be ſet for the Year 1695 does expire. And for the continuing of the Salt Tax, which will always be eaſie, here may be by way of Lottery for the Service of the Year 1695 thus Raiſed—1 Million.</p>
+            <p>Or 3 <hi>d.</hi> in the Pound (as it may be eaſie laid) on Tobacco, or 1 <hi>d.</hi> a Pound on Soap, and the Additional Duty again renewed upon Sugars, (either of which may be done with ſmall Inconvenience and few Officers) will be a ſufficient Fond for the 140000 <hi>l.</hi> Yearly for the Million, by way of Lottery now propoſed to be Raiſed.</p>
+            <p>Now, for a Fond for Raiſing any Sum of Money not exceeding 300000 <hi>l.</hi> yearly, Tobacco is propoſed to be Taxed as herein afterexpreſt; but firſt Note, ſuppoſe its Prime coſt in the Plantations <hi>per</hi> lb. 1. <hi>d.</hi> ſuppoſe its Freight and aſſurance home in Peace more about 3 <hi>ob.</hi> the Kings Duty one way or other comes to 5 <hi>d.</hi> which being good part of it to be paid or ſecured on Landing, and before 'tis diſpoſed of, does much inconvenience the Importer, he for that reaſon being obliged to have and keep by him (or to be able at leaſt to give Security for) double the Money he would otherwiſe have need of for his Tobacco Trade if he were not to pay the Duty till his Commodities ſold.</p>
+            <p>Now, by this Computation the Prime Coſt of the Tobacco, Freight, Cuſtom, <hi>&amp;c.</hi> comes to <hi>per</hi> Pound 6 <hi>d.</hi> ¾, and is commonly ſold by the Importer at about 7 or 8 <hi>d.</hi> and ſo the gain of the Importer by it is about 1 <hi>d.</hi> ½ at moſt, and oftentimes not ſo much: And for the Tobacco (of which all that is landed muſt pay and ſecure the Duty of 5 <hi>d.</hi> the Pound to the King) which is after Tranſported, tho' the Duty all but one half-penny be returned to the Importer if Shipt out in one Year, the Importer in the mean time is forced to be out of Pocket, or give Security for the Duty of ſuch Tobacco to be paid, being more than double the value of the To<g ref="char:EOLhyphen"/>bacco it ſelf. And for to Reimburſe himſelf oftentimes in Neceſſity of that Money (ſo by him laid down or ſecured for the Duty) again, is forced to Tranſport it, whether the Markets abroad at that time require it or not; or elſe for want of Mo<g ref="char:EOLhyphen"/>ney (chiefly occaſioned by having paid ſo much Duty, or being obliged to give Security for it) is forced to ſell at under Rates and with loſs to Engroſſers and
+<pb n="2" facs="tcp:175986:6"/>others, who notwithſtanding the Prime Coſt and Duty to them is but 7 or 8 <hi>d.</hi> the Pound, do ſeldom ſell it to thoſe that take it, for leſs than double than Sum, but oftner at treble as much: And when the Duty herein after Propoſed ſhall be in the manner herein Propoſed ſet on it, 'twill not be ſenſibly dearer to the taker than 'tis; 'twill not hinder the Conſumption, nor the Export, and the Merchant having this way not need of ſo much Stock, or of being able to give Security for, as now he muſt have to drive the Tobacco Trade, if he gets leſs by the Commo<g ref="char:EOLhyphen"/>dity, he however will make more <hi>per Cent.</hi> for his Money, 100 <hi>l.</hi> doing him the way following the Service of two.</p>
+            <p>To Demonſtrate this, and what with eaſe is conceived may be raiſed Yearly on the Tobacco Fond.</p>
+            <p>Note, The preſent Duty as aforeſaid on Tobacco is <hi>per</hi> Pound 5 <hi>d.</hi> and that Duty has been computed worth in Peace to the Crown Yearly 250000 <hi>l.</hi> and this chiefly riſes by the home Conſumption, 4 <hi>d.</hi> ½ <hi>per</hi> lb. being to be returned to the Importer on Tranſportation, and ſo amounts not to much; but that part of the Duty <hi>(viz.)</hi> a half-penny <hi>per</hi> Pound when Exported may always continue, notwithſtanding the new way of Taxing herein after Propoſed, that having no relation to this, which lays the Duty only on the Conſumption at home, and hinders not Foreign Trade in the leaſt, nor does it create many Officers, nor can it be called an Exciſe as aforeſaid. One Penny <hi>per</hi> Pound on the home Conſumption of Tobacco, reckon<g ref="char:EOLhyphen"/>ing 5 <hi>d. per</hi> Pound to bring in 250000 <hi>l.</hi> Yearly, will bring in 50000 <hi>l.</hi> Yearly; ſo that if 3 <hi>d.</hi> more be laid on't, 'twill bring in, thus Reckoning, more than it does 150000 <hi>l.</hi> Yearly, being a Fond ſufficient to raiſe two or three Millions up<g ref="char:EOLhyphen"/>on; and if 4 <hi>d.</hi> ½ be laid, 'twill bring in half as much more, and ſo be a Fond for in Proportion more Money; and if inſtead of 4 <hi>d.</hi> ½ there ſhould be 7 <hi>d.</hi> to make it 12 <hi>d. per</hi> Pound Duty, the Commodity will bear it very well, and be a very good Fond for 300000 <hi>l.</hi> Yearly more than it now brings at leaſt.</p>
+            <p>The way Propoſed to have this done with eaſe and convenience, and to Raiſe the Yearly Income or Revenue aforeſaid, is</p>
+            <p>By making a Law, That,</p>
+            <p n="1">1. All Tobacco Imported ſhould firſt be unladen (as moſt of it is) at either <hi>London</hi> or <hi>Briſtol.</hi>
+            </p>
+            <p n="2">2. That it be all lodged in Ware-houſes to be prepared by the King for that purpoſe, and to be Lett to the Importer at eaſier Rates than at any other Place at <hi>London</hi> or <hi>Briſtol</hi> by them ſhall be to be had; To which ſeveral Ware-houſes each Owner of Tobacco and his Servants are always freely to come to take care of theſe Goods, and to ſell and diſpoſe them in any manner they ſhall think beſt; but before they go out of the Ware-houſe, the Duty already ſet on them, and what ſhall be further ſet, muſt be paid or ſecured, as muſt be preſcribed by the Act to be paid or ſecured by the firſt Buyer or Importer as they two ſhall agree, but by one of them as aforeſaid it muſt be paid or ſecured before the Goods be let go from the Ware-houſe, which aſcertains the Duty for all Tobacco ſpent in the Kingdom, and for what ſhall be Exported upon payment of one half-penny (or rather nothing) if for Encouragement of that Trade it may be ſo Enacted.</p>
+            <p>Note, The Owner may have liberty to take thence and Export his To<g ref="char:EOLhyphen"/>bacco, (the neceſſary Cautions now uſed to ſee that ſuch Tobacco for which the Duty is required to be returned) and as the Law now ſtands muſt be, (if it be Tranſported) being uſed to ſee and prove that the Tobacco ſo taken from the King's Ware-houſe, having paid the half-penny Duty, be truly Traſported abroad.</p>
+            <p n="3">3. And Note further, a Publick Sale for diſpoſing Tobacco by the Candle is propoſed to be kept the ſecond Week in each Month, both at <hi>London</hi> and <hi>Briſtol.</hi>
+            </p>
+            <p>For the Convenience of ſuch as Import Tobacco, and without Paying any thing at the Landing, lay it up (as all muſt be obliged to do) in Ware-houſes provided for it by the King; where the ſame ſhall be entred as 'tis landed in courſe, and if not diſpoſed by the Owner before ſuch day of Sale, as aforeſaid, ſhall (if he thinks fit) be ſet up in courſe by the Candle, at what Price he ſhall ſet on it, and ſo Sold; And then the King's Duty being paid or ſecured, the Goods to be delivered.</p>
+            <pb n="3" facs="tcp:175986:6"/>
+            <p>And that the Kings Duty may be much more certain than now it is. <hi>Note,</hi> If the Importer neglects or refuſes to let his Goods be expoſed to Sale, within the time to be allowed for paying the Kings Duty, or to pay and ſecure the Duty (which Duty being paid or ſecured, he may do as he will with his Goods.)</p>
+            <p>The ſaid Goods ſhall upon the next day of Sale, after the time for paying the Du<g ref="char:EOLhyphen"/>ty expires, be by the Kings Officers ſet up and ſold at the Candle, and on Receipt of the Money for which they ſhall be Sold, the Kings Duty being firſt taken out, the reſt ſhall be paid to the Owner, who ſo is not hurt in the leaſt. And beſides</p>
+            <p>The Convenience of this way of Sale; 'twill be a certain and a great advantage to the firſt Owner of the Goods, and the like to all ſuch as ſhall have occaſion to buy; and that thoſe Perſons that have occaſion only for ſmall Quantities, may this way be Convenienced,<note place="margin">☞</note> and yet at the ſame bidding be accommodated with a great Quanti<g ref="char:EOLhyphen"/>ty if they ſo ſhall think fit, It may be Ordered.</p>
+            <p>That every Man's Goods <hi>(viz.)</hi> Hogſheads of Tobacco, ſhall be Numbred from 1. to as many as he ſhall think fit at once to Set up. And then,</p>
+            <p>The firſt Hogſhead to be Set up by it ſelf, with this Declaration, That whoever buys it, may take as many of the ſucceeding Numbred Hogſheads of that Parcel at the ſame Price as he ſhall think fit; So that he that will buy few, as well as he that would buy many, may this way be accommodated; and the Chapman before<g ref="char:EOLhyphen"/>hand having had the liberty to take what View he pleaſes of the Goods, cannot this way be Impoſed on, by having Hogſheads of Ill mingled with Good, having it in his Power to end buying at what Number he will, and this will make the Pro<g ref="char:EOLhyphen"/>prietor exceedingly careful, that each Hogſhead in every Numbred Parcel ſhall (as near as he can make them) be of Goodneſs alike, becauſe 'twill be his Intereſt ſo to do; And every Buyer may (that being done) much ſafer bid; So all will be this way for the Benefit of both Seller and Buyer.</p>
+            <p>Nor can the firſt Owner of the Tobacco find any cauſe to complain of this ſort of Sale, being left to his Liberty (paying or ſecuring the Duty) to any otherwiſe diſpoſe of his Goods that he can.</p>
+            <p>Nor can the Buyer complain of this way of Buying, being left at his Liberty to buy more or leſs, or any other way that he can; So that Buyer and Seller being both at Liberty, the one to Sell, and the other to Buy as he can, there's none of this way will ever have juſt cauſe to complain; And the Nation may be pleaſed by thus having the Publick ſupplied with ſome Millions of Money, which may be done by To<g ref="char:EOLhyphen"/>bacco as before Propoſed, without burthening the Subject, and without deſtroying or leſſening the Plantation Trade, but rather encreaſing the ſame.</p>
+            <p>Now by what goes before, it being made evident that Tobacco may raiſe 300000 <hi>l.</hi> yearly yet more than it does. Note,</p>
+            <p>Every Penny laid on Tobacco being 40000 <hi>l.</hi> yearly, at leaſt, many believing it not leſs than 50000 <hi>l.</hi> yearly, an Act of Parliament may out of it make Fonds, as great or as ſmall as they will.</p>
+            <p>And now at firſt ſuppoſe only 2 <hi>d.</hi> the pound Additional Duty, in manner afore<g ref="char:EOLhyphen"/>ſaid laid on't, may produce 100000 <hi>l.</hi> yearly, and will yearly 80000 <hi>l.</hi> at the leaſt, which for the raiſing two Millions, 'tis propoſed ſhould be Appropriated as ſtrict<g ref="char:EOLhyphen"/>ly, as the Revenue for the Bank is on Truſtees, accountable to Parliament for the conſtant anſwering of 4 <hi>per Cent.</hi> once a Year, at <hi>Lady-day,</hi> or <hi>Michaelmas</hi> Intereſt, to ſuch as ſhall at that time yearly have Right to the Two Millions of Money, in proportion to every Man's Title thereto, and this Intereſt to always continue till Redeemed by Parliament, to which it muſt ever be Subject.</p>
+            <p>And now to bring this 80000 <hi>l.</hi> yearly, into two ſuch Millions of Money as may anſwer ſo much of the Publick Occaſions, and the ſatisfaction and advantage of ſuch as can have it, and be no Prejudice at all to the Crown, nor any Inconvenience to the preſent Revenue, nor to be ſtrongly Objected againſt by reaſon of the preſent Anticipations, which as this is Propoſed to be put will never be hurt, nor the Per<g ref="char:EOLhyphen"/>ſons therein concerned (unleſs they deſire it) be troubled with being this way to be paid, ſuch Care being taken that very little of it, after once 'tis paid out ſhall e<g ref="char:EOLhyphen"/>ver return to the Crown; and before 'tis paid out, being evidently better than any other ſort of the King's Pay, unleſs for Contradiction ſake, or its not being well underſtood, it cannot fail being approved of by all. the way follows:</p>
+            <pb n="4" facs="tcp:175986:7"/>
+            <p>A way how to ſupply the Kings Occaſions with a Million of Money on a Fond of 40000 <hi>l.</hi> yearly, or with two Millions on 80000 <hi>l.</hi> yearly, which is at 4 only <hi>per Cent.</hi> without any prejudice to the King's preſent Revenue, or compulſion to thoſe that ſhall receive it, but rather a convenience to both; to do this 'tis Propoſed,</p>
+            <p>That there ſhould Bills, ſome of 100 <hi>l.</hi> ſome of 50 <hi>l.</hi> and ſome of 20 <hi>l.</hi> (as here<g ref="char:EOLhyphen"/>in after Deſcribed) be Prepared, amounting ſuppoſe to one or two Millions, and to be paid out by the King as ſo much ready Money, to thoſe his Majeſty has occaſion to pay Money to, and are willing this way to receive it, with a Declaration (as you ſee the Pattern made for 'em) that they ſhall be taken in payment, for either Excite or Cuſtom, for the Money they are given out at, and the 4 <hi>per Cent.</hi> Intereſt, ſhall be paid to the Perſon poſſeſt of ſuch Bills at <hi>Lady-day,</hi> or <hi>Michaelmas</hi> yearly, and the King as he pays them out, as 100. 50. or 20 <hi>l.</hi> ſhall take them again as 100. 50. or 20 <hi>l.</hi> In ſhort, as the King pays out Silver and Gold, and takes it again for juſt the ſame as he paid it out; ſo, and no otherwiſe he ſhould take again theſe Bills <hi>(viz.)</hi> as 100 <hi>l.</hi> 50 <hi>l.</hi> or 20 <hi>l.</hi> as he paid them out.</p>
+            <p>Whence 'twill follow, that whoever comes to be poſſeſt of theſe Bills (having a running Intereſt of 4 <hi>per Cent.</hi> on them) will never pay them into the Exchequer, either for Cuſtom or Exciſe, if he can poſſibly find other Money to pay it.</p>
+            <p>And to hinder the remaining long of ſuch Bills in the Exchequer, it may be enacted, That (if payment of any of theſe Bills be made, as 20 <hi>l.</hi> 50 <hi>l.</hi> or 100 <hi>l.</hi> for Cuſtom or Exciſe) there ſhall every Week be ſet up in Writing at the Exchequer, Ex<g ref="char:EOLhyphen"/>ciſe and Cuſtom-houſe, an Account of what ſums in ſuch Bills remain there, with this Declaration Poſitive, that whilſt there are any ſuch Bills remaining in the Ex<g ref="char:EOLhyphen"/>chequer, Exciſe, or Cuſtom-houſe, whoever brings ready Money, that is, 100 <hi>l.</hi> for 100 <hi>l.</hi> 50 <hi>l.</hi> for a 50 <hi>l.</hi> or 20 <hi>l.</hi> for a 20 <hi>l.</hi> Bill,<note place="margin">☞</note> ſhall not be refuſed it, tho 11 Months Intereſt be due upon't, and the whole twelve to be Received by the Poſſeſſor of the Bill, the <hi>Lady-day</hi> or <hi>Michaelmas</hi> following: This will make theſe Bills 'twixt man and man much better than ready Money, having ſuch Intereſt, till paid for Exciſe or Cuſtom, ſtill running upon them, and when paid into the Exchequer ſo very advan<g ref="char:EOLhyphen"/>tagious to thoſe that ſhall take them out, that the Kings Revenue in payment will have very few of them; And being ſo drawn that they cannot be Counterfeit, and may be proved true at the <hi>Cuſtom-houſe</hi> if paid there, at the Exciſe Office if paid there, at the <hi>Cuſtom-houſe</hi> at <hi>Briſtol,</hi> and the other Places writ on them if paid there, and at the Exchequer when the Intereſt is paid, and a new Bill given there; as alſo for Aſcer<g ref="char:EOLhyphen"/>taining the truth of ſuch Bills; an Office like that of the Transfer may be Erected in <hi>London,</hi> for a Penny to Try and Aſſert the Validity of any ſuch Bill, which be<g ref="char:EOLhyphen"/>ing ſo eaſy Aſcertained, and having 4 <hi>per Cent.</hi> Intereſt (which is more than what the Bank Bills will have) running upon 'em, and it being ready Money to Mer<g ref="char:EOLhyphen"/>chants, when the Owner would part with it.</p>
+            <p>It is not to be doubted, but that this may to as much Satisfaction ſupply the uſes of Money as either Bank Bills will, or Goldſmiths Notes ever did, and be a Preju<g ref="char:EOLhyphen"/>dice to none, but a great Convenience to many, and a Publick Good, by encreaſing the Currant Money of the Nation, which theſe Bills without any Compulſion, muſt of courſe and neceſſity do, and may be for greater or leſſer ſums, as Fonds ſhall be ſettled for it.</p>
+            <closer>
+               <signed>The form of the Bills, and how the Truth of them is to be Tryed, the following Print does demonſtrate. Tho Neale.</signed>
+               <date>
+                  <hi>Nov. 16th.</hi> 1694.</date>
+            </closer>
+         </div>
+         <div type="sample_bank_note">
+            <pb facs="tcp:175986:4"/>
+            <p>
+               <figure>
+                  <figDesc>sample bank note</figDesc>
+                  <p>This Bill will be taken For one Hundred Pounds by the King in all Payments for Cuſtoms or Excise (and may also be Tryed) in the Places writ about It vntil the 25 of March 1696. And at any time after that Time the Bearer of It may vpon The delivering it vp Receive Four pounds at the Exchequer and One other such Bill of one Hundred Pounds for the year ensuing. </p>
+                  <p>This Bill is to be cut Indentwise, Through The Several Knolls, or Flourishes, and each Knoll or Fl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urish being Numbred (as The Bill will be) is to be Severally Pasted in a Book to be kept at each reſpective Place mentioned above <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> There to prove The Truth of Such Bill.</p>
+                  <p>
+                     <list>
+                        <item>100 <abbr>li</abbr> London Custom 1695 N</item>
+                        <item>100 <abbr>li</abbr> London Custom 1695 N</item>
+                        <item>100 <abbr>li</abbr> London Excise. 1695 N</item>
+                        <item>100 <abbr>li</abbr> London Excise. 1695 N</item>
+                        <item>100 <abbr>li</abbr> London Transfer 1695 N</item>
+                        <item>100 <abbr>li</abbr> London Transfer 1695 N</item>
+                        <item>100 <abbr>li</abbr> London Exchequer. 1695 N</item>
+                        <item>100 <abbr>li</abbr> London Exchequer. 1695 N</item>
+                        <item>100 <abbr>li</abbr> Bristoll Cus. &amp; Excise. 1695 N</item>
+                        <item>100 <abbr>li</abbr> Bristoll Cus. &amp; Excise. 1695 N</item>
+                        <item>100 <abbr>li</abbr> Yarmouth Cus: &amp; Exc: 1695 N</item>
+                        <item>100 <abbr>li</abbr> Yarmouth Cus: &amp; Exc: 1695 N</item>
+                        <item>100 <abbr>li</abbr> Yorke Cus: &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr> Yorke Cus: &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr> Newcastle Cus: &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr> Newcastle Cus: &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr> Chester Cus: &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr> Chester Cust: &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr> Shrewsbury Cus: &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr> Shrewsbury Cus: &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr>Exeter Cus: &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr>Exeter Cus: &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr>Plymouth Cus &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr>Plymouth Cus: &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr>Norwich Cus. &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr>Norwich Cus. &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr>Colchester Cus &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr>Colchester Cus &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr>Southampo<g ref="char:cmbAbbrStroke">̄</g> Cus: &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr>Southampo<g ref="char:cmbAbbrStroke">̄</g> Cus: &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr>Hull Cus: &amp; Excise 1695 N</item>
+                        <item>100 <abbr>li</abbr>Hull Cus: &amp; Excise 1695 N</item>
+                     </list>
+                  </p>
+                  <signed>Commiſsioner </signed>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
